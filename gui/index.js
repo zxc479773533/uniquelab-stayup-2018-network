@@ -5,7 +5,7 @@
 */
 
 // Creat websocket (You should add port here)
-var ws = new WebSocket('ws://localhost:8080');
+var ws = new WebSocket('ws://localhost:XXXX');
 
 // Event when the websocket is opened
 ws.onopen = function (evt) {
