@@ -12,6 +12,8 @@
 
 你需要在如下地址下载我们提供的源代码文件：
 
+http://120.78.181.64/fake-chatting-room.zip
+
 ### 相关说明
 
 * Client
