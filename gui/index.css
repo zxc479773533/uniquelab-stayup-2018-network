@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+
+#mainframe {
+	border: 2px ridge blue;
+	margin: auto;
+	background: url(images/background.jpg);
+	height: 663px;
+	width: 1024px;
+}
+
+.title {
+	padding-top: 20px;
+}
+
+.logo {
+	padding-top: 60px;
+	padding-left: 60px;
+	height: 150px;
+	width: 220px;
+}
+
+#output {
+	float: left;
+	margin-top: 50px;
+	margin-left: 30px;
+	background: #C4C4C4;
+	height: 400px;
+	width: 500px;
+	border: 2px solid;
+}
+
+#content {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	border: 2px groove black;
+	background-color: white;
+	margin-left: 5px;
+	height: 310px;
+	width: 476px;
+	overflow-y: auto;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
+#control {
+	float: right;
+	margin-top: 30px;
+	height: 350px;
+	width: 450px;
+}
+
+.submit {
+	height: 50px;
+	width: 150px;
+	margin-top: 30px;
+	font-size: 18px;
+	background-color: royalblue;
+	color: white;
+}
+
+#inputZone {
+	height: 40px;
+	width: 300px;
+	margin-left: 50px;
+	font-size: 20px;
+}

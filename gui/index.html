@@ -1,0 +1,41 @@
+<!--*
+* Unique Lab 2018 Spring network problem
+* Part: GUI html
+* Developed by zxcpyp
+*-->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <title>Let's Chat!</title>
+    <link type="text/css" href="index.css" rel="stylesheet">
+    <script type="text/javascript" src="index.js"></script>
+  </head>
+<body>
+  <div id="mainframe">
+    <div class="title">
+			<img align="right" src="images/title.png"/>
+    </div>
+    <div id="output">
+      <h2>&emsp;Chatting Room:</h2>
+      <div id="content">
+				<div id="content_main"></div>
+				<div id="console_end"></div>
+      </div>
+    </div>
+    <div id="control">
+      <img class="logo" src="images/logo.png"/>
+      <br/>
+      <input type="text" id="inputZone">
+      <br/>
+      <div align="left" style="float:left; margin-left: 30px;">
+        <input class="submit" type="submit" value="Send Message" onclick="mainSend()"/>
+      </div>
+      <div style="margin-left: 230px;">
+        <input class="submit" type="submit" value="Clear Content!" onclick="clearData()"/>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
