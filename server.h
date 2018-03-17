@@ -7,6 +7,9 @@
 #ifndef __WSSERVER_H_
 #define __WSSERVER_H_
 
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
 #include <netinet/in.h>
 #include <sys/socket.h>
 #include <sys/types.h>
