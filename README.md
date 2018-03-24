@@ -75,4 +75,4 @@ http://120.78.181.64/fake-chatting-room.zip
 
 http://zxcpyp.com/network/2017/09/07/Websocket
 
-这里有着一些简单的协议内容解析和握手部分的实现代码
+这里有着一些简单的协议内容解析和握手部分的实现代码 [By. zxcpyp]
